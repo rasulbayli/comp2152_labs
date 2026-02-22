@@ -1,0 +1,4 @@
+2026-02-21 12:45:02,ping,google.com,21.385,Success
+2026-02-21 12:45:14,nslookup,github.com,140.82.113.4,Success
+2026-02-21 12:45:19,ifconfig,en0,c4:b3:01:c6:03:63 / 192.168.0.25,Captured
+2026-02-21 12:45:32,arp,local,2 devices,Captured
