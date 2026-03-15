@@ -1,5 +1,5 @@
 # ============================================================
-#  WEEK 09 LAB — Q2: SEQUENTIAL vs THREADED EXECUTION
+#  WEEK 09 LAB — Question 2: SEQUENTIAL vs THREADED EXECUTION
 #  COMP2152 — Rasul Dadashbayli
 # ============================================================
 

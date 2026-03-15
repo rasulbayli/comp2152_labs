@@ -1,5 +1,5 @@
 # ============================================================
-#  WEEK 09 LAB — Q1: SYSTEM INFORMATION REPORTER
+#  WEEK 09 LAB — Question 1: SYSTEM INFORMATION REPORTER
 #  COMP2152 — Rasul Dadashbayli
 # ============================================================
 
