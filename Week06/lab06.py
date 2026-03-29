@@ -8,6 +8,7 @@ import subprocess
 import csv
 from datetime import datetime
 
+git clone https://github.com/rasulbayli/COMP2152_Assignment-2.git
 
 # ============================================================
 #  SECTION A: Running System Commands (COMPLETE — provided)
